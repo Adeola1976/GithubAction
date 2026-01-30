@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14e48f2a-af47-4fbe-912e-5b3ce1e8b496": {
+      "ProjectGuid": "14e48f2a-af47-4fbe-912e-5b3ce1e8b496",
+      "DisplayName": "GithubAction",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
