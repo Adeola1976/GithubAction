@@ -38,4 +38,4 @@ jobs:
           TOKEN: ${{ secrets.TOKEN }}
       run: chmod +x Script/updatemanifest.sh
     - name: Run script with env
-      run: ./Script/updatemanifest.sh  ${{ secrets.TOKEN }}
+      run: ./Script/updatemanifest.sh  echo ${{ secrets.TOKEN }}
