@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\devops\GithubAction\bin\Debug\net6.0\GithubAction.exe
+C:\Users\hp\source\repos\devops\GithubAction\bin\Debug\net6.0\GithubAction.deps.json
+C:\Users\hp\source\repos\devops\GithubAction\bin\Debug\net6.0\GithubAction.runtimeconfig.json
+C:\Users\hp\source\repos\devops\GithubAction\bin\Debug\net6.0\GithubAction.dll
+C:\Users\hp\source\repos\devops\GithubAction\bin\Debug\net6.0\ref\GithubAction.dll
+C:\Users\hp\source\repos\devops\GithubAction\bin\Debug\net6.0\GithubAction.pdb
+C:\Users\hp\source\repos\devops\GithubAction\obj\Debug\net6.0\GithubAction.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\devops\GithubAction\obj\Debug\net6.0\GithubAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\devops\GithubAction\obj\Debug\net6.0\GithubAction.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\devops\GithubAction\obj\Debug\net6.0\GithubAction.AssemblyInfo.cs
+C:\Users\hp\source\repos\devops\GithubAction\obj\Debug\net6.0\GithubAction.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\devops\GithubAction\obj\Debug\net6.0\GithubAction.dll
+C:\Users\hp\source\repos\devops\GithubAction\obj\Debug\net6.0\ref\GithubAction.dll
+C:\Users\hp\source\repos\devops\GithubAction\obj\Debug\net6.0\GithubAction.pdb
+C:\Users\hp\source\repos\devops\GithubAction\obj\Debug\net6.0\GithubAction.genruntimeconfig.cache

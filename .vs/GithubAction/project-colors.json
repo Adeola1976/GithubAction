@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14e48f2a-af47-4fbe-912e-5b3ce1e8b496": {
+      "ProjectGuid": "14e48f2a-af47-4fbe-912e-5b3ce1e8b496",
+      "DisplayName": "GithubAction",
+      "ColorIndex": 0
+    },
+    "1819bfd0-4ba8-44dd-9406-61a2256f199a": {
+      "ProjectGuid": "1819bfd0-4ba8-44dd-9406-61a2256f199a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
