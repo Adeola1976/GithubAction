@@ -35,7 +35,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
     - name: Make script executable
       env:
-           TOKEN: ${{ vars.TOKEN }}
+           TOKEN: ${{ env.TOKEN }}
       run: chmod +x Script/updatemanifest.sh
     - name: Run script with env
       run: ./Script/updatemanifest.sh 
