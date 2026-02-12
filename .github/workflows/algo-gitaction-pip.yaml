@@ -38,4 +38,7 @@ jobs:
     - name: Run script with env
       env:
           TOKEN: ${{ secrets.TOKEN }}
+          BUILD_ID: ${{ github.run_id }}
+          REPO_NAME: ${{ secrets.REPONAME }}
+          REGISTER_NAME: ${{ secrets.REGISTERNAME }}
       run: ./Script/updatemanifest.sh 
