@@ -8,7 +8,7 @@ git config --global user.email "adeolavictor618@gmail.com"
 git config --global user.name "adeolavictor618@gmail.com"
 REPO_URL="https://x-access-token:$TOKEN@github.com/Adeola1976/GithubAction.git"
 git remote set-url origin "$REPO_URL"
-echo "Token length: ${#TOKEN}"
+echo "Token length: ${#TOKEN}."
 
 # Clone the git repository into the /tmp directory
 git clone "$REPO_URL" /tmp/temp_repo
