@@ -14,7 +14,7 @@
       spec:
          containers:  
             - name: algoservice
-              image:adeola1976/algorithms:24041645870
+              image:adeola1976/algorithms:24041671404
 
 ---
  apiVersion: v1
