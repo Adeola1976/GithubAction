@@ -41,4 +41,5 @@ jobs:
           BUILD_ID: ${{ github.run_id }}
           REPO_NAME: ${{ secrets.REPONAME }}
           REGISTER_NAME: ${{ secrets.REGISTERNAME }}
+          EMAIL: ${{ secrets.EMAIL }}
       run: ./Script/updatemanifest.sh 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\devops\\GithubAction\\GithubAction.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\devops\\GitActions\\GithubAction.csproj",
       "projectName": "GithubAction",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\devops\\GithubAction\\GithubAction.csproj",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\devops\\GitActions\\GithubAction.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\devops\\GithubAction\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\devops\\GitActions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

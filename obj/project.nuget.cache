@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e2vgto8P+29O0h5TGf3wPI49OWaDcxwsqjlaI8MuVxUnB+tP3FCH5C0Iv3cTEmjSwd1FgRDCYfY82wvv/kUZlg==",
+  "dgSpecHash": "u027NOOs7pU6FAMecJU+Mbk1X3z2oETxkfJjQL6w9Lho4cUKK03wdm4WXQJYOeDB0NGxC/8cXJ4OThCc4e1z+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\devops\\GithubAction\\GithubAction.csproj",
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\devops\\GitActions\\GithubAction.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

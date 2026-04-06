@@ -4,8 +4,8 @@
 set -x
 
 # Set the repository URL
-git config --global user.email "adeolavictor618@gmail.com"
-git config --global user.name "adeolavictor618@gmail.com"
+git config --global user.email $EMAIL
+git config --global user.name $EMAIL
 REPO_URL="https://x-access-token:$TOKEN@github.com/Adeola1976/GithubAction.git"
 git remote set-url origin "$REPO_URL"
 echo "Token length: ${#TOKEN}."
